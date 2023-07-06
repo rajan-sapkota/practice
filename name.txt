@@ -1,0 +1,4 @@
+
+hello this a new file and ready to commit
+and this the second line of the file
+
